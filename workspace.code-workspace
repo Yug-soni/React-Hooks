@@ -15,6 +15,9 @@
     {
       "name": "flipkart",
       "path": "../../Projects/Clone20/Flipkart/flipkart"
+    },
+    {
+      "path": "../monsters-rolodex"
     }
   ],
   "settings": {
